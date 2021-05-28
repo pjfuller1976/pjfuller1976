@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pjfuller1976
 - 👀 I’m interested in Computer Science
-- 🌱 I’m was learning an MBA 
 - 💞️ I’m looking to collaborate on nothing at the moment
 
 <!---
